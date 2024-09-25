@@ -6,7 +6,7 @@ from utils.tools import load_documents, retrieve, web_search, create_tool_node_w
 from utils.prompts import  primary_assistant_prompt
 from utils.assistant import AgentState, Assistant
 
-# langchain \ langgraph
+# langchain | langgraph
 from langchain_ollama import ChatOllama
 from langgraph.graph import StateGraph, END, START
 from langgraph.prebuilt import ToolNode, tools_condition
