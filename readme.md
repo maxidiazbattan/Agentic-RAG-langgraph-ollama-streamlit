@@ -34,12 +34,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Query about a topic of your interest to search in Arxiv to later perform RAG.
-```shell
-query = 'llms 1 bit quantization'
-```
-
-### 5. Run the agent
+### 4. Run the agent
 
 ```shell
 python app.py
