@@ -4,7 +4,7 @@ This repository showcases a test of the Llama 3.1 model tool-calling capabilitie
 
 In addition to document-based retrieval, the agent can search the web for answers to queries unrelated to the retrieved documents, ensuring comprehensive coverage across various topics by leveraging internet-based tools. This setup demonstrates the model efficiency in both document-focused and web-based information retrieval, making it adaptable for diverse use cases.
 
-If you want, you can test this app in lightning studios via this [link]([https://lightning.ai/maxidiazbattan/studios/langgraph-agenticrag-with-streamlit), or locally following the steps below.
+If you want, you can test this app in lightning studios via this [link]([https://lightning.ai/maxidiazbattan/studios/langgraph-agenticrag-with-streamlit]), or locally following the steps below.
 
 ### 1. [Install](https://github.com/ollama/ollama?tab=readme-ov-file) ollama and pull models
 
