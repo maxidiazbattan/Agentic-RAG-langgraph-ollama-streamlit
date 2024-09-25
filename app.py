@@ -92,7 +92,7 @@ async def run_workflow(inputs):
 
     st.session_state.placeholder.empty()
     st.session_state.message_placeholder = st.empty()
-    st.session_state.status.update(label="---FINISH---**", state="complete", expanded=False)
+    st.session_state.status.update(label="**---FINISH---**", state="complete", expanded=False)
     st.session_state.message_placeholder.markdown(value)
 
 
