@@ -3,7 +3,7 @@ import uuid
 from typing_extensions import TypedDict
 from typing import Annotated, List, Dict, Literal, Any, Union
 
-# langchain \ langgraph
+# langchain | langgraph
 from langchain_core.runnables import Runnable, RunnableConfig
 from langgraph.graph.message import AnyMessage, add_messages
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
