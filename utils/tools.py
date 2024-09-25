@@ -63,7 +63,7 @@ async def web_search(state):
     """
     Function to call the web search.
     """
-    print('---WEB SEARCH---')
+    # print('---WEB SEARCH---')
     st.session_state.log += "---WEB SEARCH---" + "\n\n"
     st.session_state.placeholder.markdown("---WEB SEARCH---")
 
