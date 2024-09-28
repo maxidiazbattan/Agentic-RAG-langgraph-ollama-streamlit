@@ -37,5 +37,5 @@ pip install -r requirements.txt
 ### 4. Run the agent
 
 ```shell
-python app.py
+streamlit run app.py
 ```
